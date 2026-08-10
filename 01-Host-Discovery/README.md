@@ -44,6 +44,8 @@ Host discovery was successfully completed using Nmap.
 
 The following screenshot shows the Nmap host discovery scan and its results.
 
+![Host Discovery](host-discovery.png)
+
 ## Conclusion
 
 The host discovery phase successfully identified active hosts within the authorized laboratory network. This information was used as the basis for subsequent port scanning and service enumeration.
